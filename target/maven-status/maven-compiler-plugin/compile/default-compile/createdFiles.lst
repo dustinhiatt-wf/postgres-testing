@@ -1,0 +1,9 @@
+jsonb/model/DataConverter.class
+jsonb/controller/HealthController.class
+jsonb/model/Entity.class
+jsonb/model/Query.class
+jsonb/repository/JsonDataUserType.class
+jsonb/Application.class
+jsonb/repository/package-info.class
+jsonb/controller/EntityController.class
+jsonb/repository/EntityRepository.class
